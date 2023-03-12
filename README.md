@@ -26,3 +26,9 @@ kill -9 $(lsof -t -i tcp:5000)
 ```
 
 <img width="882" alt="Screenshot 2023-03-12 at 6 23 01 PM" src="https://user-images.githubusercontent.com/43849911/224545924-f69032bd-d8a5-479e-ba14-65493d892812.png">
+
+<img width="1584" alt="Screenshot 2023-03-12 at 6 27 17 PM" src="https://user-images.githubusercontent.com/43849911/224546123-27ae572e-debf-4422-9c70-4b08eb130087.png">
+
+
+
+
