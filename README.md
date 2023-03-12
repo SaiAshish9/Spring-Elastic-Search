@@ -1,3 +1,13 @@
+```
+ES Indexing and Retrieval:
+
+
+
+```
+
+
+https://www.elastic.co/guide/en/elasticsearch/guide/current/practical-scoring-function.html
+
 <img width="1603" alt="Screenshot 2023-03-12 at 2 45 25 PM" src="https://user-images.githubusercontent.com/43849911/224535521-bf6364c8-d4bf-4f4f-9e87-cec906c77d6d.png">
 
 ```
@@ -13,8 +23,6 @@ docker-compose up
 ```
 create index and dataview with name springboot-test-log
 ```
-
-https://www.elastic.co/guide/en/elasticsearch/guide/current/practical-scoring-function.html
 
 ```
 sudo kill -9 $(sudo lsof -t -i:9001)
