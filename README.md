@@ -1,4 +1,6 @@
 ```
+ES => NoSQL DB
+
 ES Indexing and Retrieval:
 
 how es indexes our data so that it can return result sets us in extremely low latency
