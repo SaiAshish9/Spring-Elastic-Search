@@ -15,3 +15,5 @@ docker-compose up
 ```
 create index and dataview with name springboot-test-log
 ```
+
+https://www.elastic.co/guide/en/elasticsearch/guide/current/practical-scoring-function.html
