@@ -44,3 +44,7 @@ data views and index management
 
 <img width="1596" alt="Screenshot 2023-03-12 at 6 59 02 PM" src="https://user-images.githubusercontent.com/43849911/224547835-7a533e10-6bea-4bae-9e23-df7d97330a6d.png">
 
+<img width="921" alt="Screenshot 2023-03-12 at 7 01 55 PM" src="https://user-images.githubusercontent.com/43849911/224548005-ef34f264-4f55-4198-a361-c5cd068db0d7.png">
+
+
+
