@@ -17,3 +17,12 @@ create index and dataview with name springboot-test-log
 ```
 
 https://www.elastic.co/guide/en/elasticsearch/guide/current/practical-scoring-function.html
+
+```
+sudo kill -9 $(sudo lsof -t -i:9001)
+
+kill -9 $(lsof -t -i tcp:5000)
+
+```
+
+<img width="882" alt="Screenshot 2023-03-12 at 6 23 01 PM" src="https://user-images.githubusercontent.com/43849911/224545924-f69032bd-d8a5-479e-ba14-65493d892812.png">
